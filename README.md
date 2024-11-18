@@ -1,6 +1,6 @@
 # 💻 Venkat Reddy Mittapalli | Aspiring Machine Learning Engineer 🌟
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-reddy-mittapalli)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/venkatreddymittapalli)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:venkatreddymittapalli@my.unt.edu)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=About.me&logoColor=white)](#)
 
