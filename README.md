@@ -22,7 +22,7 @@ I’m Venkat Reddy Mittapalli, a Master’s student in Artificial Intelligence a
 
 - 🎯 **Goal**: To become a **Machine Learning Engineer**, specializing in AI-driven insights and automation.  
 
-- 🌱 **Currently Learning**: Advanced Visualization Techniques (D3.js), t-SNE, and Network Visualization.
+- 🌱 **Currently Learning**: Advanced Visualization Techniques (D3.js), Big Data, and Empirical Analysis.
 
 ---
 
@@ -54,14 +54,14 @@ I’m Venkat Reddy Mittapalli, a Master’s student in Artificial Intelligence a
 
 ## 🌐 **Connect With Me**
 - **Email**: venkatreddymittapalli@my.unt.edu  
-- **LinkedIn**: [Venkat Reddy Mittapalli](https://www.linkedin.com/in/venkat-reddy-mittapalli)  
+- **LinkedIn**: [Venkat Reddy Mittapalli](https://www.linkedin.com/in/venkatreddymittapalli)  
 - **Location**: Denton, Texas, USA  
 
 ---
 
 ## 📈 **GitHub Stats**
-![Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=VenkatMittapalli&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatMittapalli&layout=compact&theme=radical)
+![Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkat-Co&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat-Co&layout=compact&theme=radical)
 
 ---
 
