@@ -59,11 +59,7 @@ I’m Venkat Reddy Mittapalli, a Master’s student in Artificial Intelligence a
 
 ---
 
-## 📈 **GitHub Stats**
-![Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkat-Co&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat-Co&layout=compact&theme=radical)
 
----
 
 ## 💡 **Fun Fact**
 I enjoy breaking down complex concepts into simple, actionable insights—whether it's coding, teaching, or analyzing data.
